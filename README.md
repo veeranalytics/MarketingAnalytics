@@ -17,5 +17,5 @@ This is a transnational data set which contains all the transactions occurring b
 7. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. 
 8. Country: Country name. Nominal, the name of the country where each customer resides.
 
-### Please open 'Marketing_Analytics.pdf' to view presentation.
-### Please open 'Online_Retail_Marketing_Analytics.ipynb' to view Python code.
+#### Please open 'Marketing_Analytics.pdf' to view presentation.
+#### Please open 'Online_Retail_Marketing_Analytics.ipynb' to view Python code.
